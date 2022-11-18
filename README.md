@@ -1,3 +1,7 @@
+# What is this forked version about:
+Nothing much really. I forked https://github.com/hotwired/stimulus-starter.git and started doing the tutorial at https://github.com/hotwired/stimulus-starter.git 
+
+
 # Stimulus Starter
 
 A preconfigured blank slate for exploring [Stimulus](https://github.com/hotwired/stimulus). Jump to [The Stimulus Handbook](https://stimulus.hotwired.dev/handbook/introduction) for an introduction.
